@@ -1,4 +1,4 @@
-package.json{
+{
   "name": "gomoku-server",
   "version": "1.0.0",
   "scripts": {
